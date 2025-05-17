@@ -16,11 +16,12 @@ git clone https://github.com/Ngducok/Food-Classfication.git
 pip install -r requirements.txt
 ```
 4. run the Core-Logic.py by using this command:
-```bash
+```python
 py core-logic.py
 ```
 Enjoy!
-
+## Models 
+- ``` https://drive.google.com/drive/folders/1NpZfE9afIllIH2KZgYvcxGSSUNNi018_ ```
 ## Benefits
 - Help you detect food by using browse images, or use webcam or esp32cam.
 - flexible UX/UI
