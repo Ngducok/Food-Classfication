@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 4. run the Core-Logic.py by using this command:
 ```python
-py core-logic.py
+py rielUI.py
 ```
 Enjoy!
 ## Models 
