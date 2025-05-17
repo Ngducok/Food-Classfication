@@ -1,0 +1,26 @@
+{
+  "classes": [
+    "cahukho", 
+    "canhcai", 
+    "canhchua", 
+    "com", 
+    "dauhusotca",
+    "gachien", 
+    "raumuongxao", 
+    "thitkho", 
+    "thitkhotrung", 
+    "trungchien"
+  ],
+  "prices": {
+    "cahukho": 65000,
+    "canhcai": 50000,
+    "canhchua": 60000,
+    "com": 25000,
+    "dauhusotca": 55000,
+    "gachien": 38000,
+    "raumuongxao": 35000,
+    "thitkho": 65000,
+    "thitkhotrung": 70000,
+    "trungchien": 45000
+  }
+} 
